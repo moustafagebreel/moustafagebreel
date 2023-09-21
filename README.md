@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/moustafa-gebreel-b57368197/" target="_blank"><img src="https://img.shields.io/badge/-moustafaf%20Gebreel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/moustafaGebreel" target="_blank"><img src="https://img.shields.io/badge/-moustafa%20Gebreel-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://www.instagram.com/moustafagebreel" target="_blank"><img src="https://img.shields.io/badge/-moustafaGebreel-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-
+<a href="https://wa.me/+201064334994" target="_blank"><img src="https://img.shields.io/badge/-MoustafaGebreel-25d366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
